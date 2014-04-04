@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscreteMathLab11_C", "DiscreteMathLab11_C\DiscreteMathLab11_C.csproj", "{EF5EFBCC-8089-42D0-946D-8BCB5047DA20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF5EFBCC-8089-42D0-946D-8BCB5047DA20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF5EFBCC-8089-42D0-946D-8BCB5047DA20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF5EFBCC-8089-42D0-946D-8BCB5047DA20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF5EFBCC-8089-42D0-946D-8BCB5047DA20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
